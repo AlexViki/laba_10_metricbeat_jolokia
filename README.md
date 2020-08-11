@@ -1,0 +1,1 @@
+laba_10_metricbeat_jolokia
